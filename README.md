@@ -1,7 +1,8 @@
 ### Hi there 👋
-tg: <a href="https://t.me/zwiak" target="_blank">@zwiak</a>
+
 
 <!--
+tg: <a href="https://t.me/zwiak" target="_blank">@zwiak</a>
 **SashaJozwiak/SashaJozwiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
