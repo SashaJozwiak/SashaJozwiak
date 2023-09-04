@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/SashaJozwiak/some-works" target="_blank">some works</a>
+<a href="https://github.com/SashaJozwiak/some-works" target="_blank">some my works</a>
 <!--
 tg: <a href="https://t.me/zwiak" target="_blank">@zwiak</a>
 **SashaJozwiak/SashaJozwiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
