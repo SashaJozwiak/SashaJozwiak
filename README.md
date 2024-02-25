@@ -2,8 +2,8 @@
 **<a href="https://github.com/SashaJozwiak/some-works" target="_blank">some works</a>**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaJozwiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-_also_ **React, Redux, RTK**, MobX, Zustand, Express, Mongo, **Nextjs,  
-Nodejs, Postgres,** Ubuntu, C
+**React, Redux, RTK**, MobX, Zustand, Express, Mongo  
+**Nextjs, Nodejs, Postgres,** Ubuntu, C
 
 [![codewars](https://www.codewars.com/users/SashaJozwiak/badges/small)](https://www.codewars.com/users/SashaJozwiak)  
 
