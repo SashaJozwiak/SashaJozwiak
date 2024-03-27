@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaJozwiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 **JS/TS, SQL**  
 **React, Redux, RTK**, MobX, Zustand, Express, Mongo  
-**Nextjs, Nodejs, PostgreSQL,** Linux, vim, bash, C
+**Nextjs, Nodejs, PostgreSQL,** Linux, bash, C
 
 [![codewars](https://www.codewars.com/users/SashaJozwiak/badges/small)](https://www.codewars.com/users/SashaJozwiak)  
 
