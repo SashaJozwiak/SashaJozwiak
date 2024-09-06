@@ -2,7 +2,7 @@
 **<a href="https://github.com/SashaJozwiak/some-works" target="_blank">some works</a>**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaJozwiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-**C, JS/TS, SQL**  
+**C, JS/TS, NodeJs, SQL, FunC**  
 **React, Redux, RTK**, MobX, Zustand, Express  
 **Nextjs, Nodejs, PostgreSQL,** Linux, bash
 
